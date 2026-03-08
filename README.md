@@ -11,17 +11,7 @@
 
 ---
 
-### 🐍 GitHub Snake
 
-<div align="center">
-
-![GitHub Snake](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/dist/github-snake.svg)
-<br>
-![GitHub Snake Dark](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/dist/github-snake-dark.svg)
-<br>
-![GitHub Ocean Snake](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/dist/ocean.gif)
-
-</div>
 
 
 ### 💫 About Me
