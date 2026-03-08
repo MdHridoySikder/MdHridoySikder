@@ -133,8 +133,7 @@ I am a passionate **Full Stack Web Developer** dedicated to building high-perfor
 </div>
 ---
 
-### 📌 Pinned Projects (Professional Style)
-
+### 📌 Pinned Projects 
 <div align="center">
 
 ---
