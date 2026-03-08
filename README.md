@@ -108,38 +108,106 @@ I am a passionate **Full Stack Web Developer** dedicated to building high-perfor
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHridoySikder&theme=react-dark" />
 </p>
 
-### 💡 Random Dev Quote
+<h3 align="center">💡 Random Dev Quote</h3>
 
-> "There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us."  
-> — **Elon Musk**
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Quote-Elon%20Musk-black?style=for-the-badge&logo=tesla&logoColor=white"/>
+</p>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="600">
+
+💬 **"There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us."**
+
+<br><br>
+
+⭐ — **Elon Musk**
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ### 📌 Pinned Repositories
 
-#### 🚀 [Project Name 1](https://live-link-1.com)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/PROJECT1_IMAGE.png" alt="AssetVerse" width="250" />
+        <h4>🚀 <a href="https://asset-verse-clint.netlify.app" target="_blank">1. AssetVerse</a></h4>
+        <p>Implementing complex animations and ensuring modularity.</p>
+        <p>
+          <b>Tech Stack:</b> React, Tailwind, Framer Motion<br/>
+          <b>Live:</b> <a href="https://asset-verse-clint.netlify.app" target="_blank">View Demo</a><br/>
+          <b>GitHub:</b> <a href="https://github.com/MdHridoySikder/asset-verse.git" target="_blank">Repo Link</a>
+        </p>
+      </td>
+      
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/PROJECT2_IMAGE.png" alt="EcoTrack" width="250" />
+        <h4>🛠 <a href="https://eco-track-com.netlify.app" target="_blank">2. EcoTrack</a></h4>
+        <p>Managing real-time data sync across multiple clients.</p>
+        <p>
+          <b>Tech Stack:</b> Node.js, Express, MongoDB<br/>
+          <b>Live:</b> <a href="https://eco-track-com.netlify.app" target="_blank">View Demo</a><br/>
+          <b>GitHub:</b> <a href="https://github.com/MdHridoySikder/eco-track.git" target="_blank">Repo Link</a>
+        </p>
+      </td>
+      
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/PROJECT3_IMAGE.png" alt="SkillSSwap" width="250" />
+        <h4>📱 <a href="https://my-assignment-no-09.netlify.app" target="_blank">3. SkillSSwap</a></h4>
+        <p>Complex state management and server-side rendering logic.</p>
+        <p>
+          <b>Tech Stack:</b> Next.js, TypeScript, Prisma<br/>
+          <b>Live:</b> <a href="https://my-assignment-no-09.netlify.app" target="_blank">View Demo</a><br/>
+          <b>GitHub:</b> <a href="https://github.com/MdHridoySikder/my-assignment-no-09.git" target="_blank">Repo Link</a>
+        </p>
+      </td>
+    </tr>
 
-Short overview of the project and its core functionality. It focuses on solving X by providing Y.
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/PROJECT4_IMAGE.png" alt="Hero.io" width="250" />
+        <h4>🎮 <a href="https://hero-gaming-apps.netlify.app" target="_blank">4. Hero.io</a></h4>
+        <p>Complex state management and server-side rendering logic.</p>
+        <p>
+          <b>Tech Stack:</b> Next.js, TypeScript, Prisma<br/>
+          <b>Live:</b> <a href="https://hero-gaming-apps.netlify.app" target="_blank">View Demo</a><br/>
+          <b>GitHub:</b> <a href="https://github.com/MdHridoySikder/hero-apps.git" target="_blank">Repo Link</a>
+        </p>
+      </td>
 
-- **Live Link:** [View Demo](https://live-link-1.com)
-- **Tech Stack:** React, Next.js, Tailwind, MongoDB
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/PROJECT5_IMAGE.png" alt="CS – Ticket System" width="250" />
+        <h4>🎫 <a href="https://assignment0777.netlify.app" target="_blank">5. CS – Ticket System</a></h4>
+        <p>Complex state management and server-side rendering logic.</p>
+        <p>
+          <b>Tech Stack:</b> Next.js, TypeScript, Prisma<br/>
+          <b>Live:</b> <a href="https://assignment0777.netlify.app" target="_blank">View Demo</a><br/>
+          <b>GitHub:</b> <a href="https://github.com/MdHridoySikder/my-assignment-no-7.git" target="_blank">Repo Link</a>
+        </p>
+      </td>
 
-#### 🛠 [Project Name 2](https://live-link-2.com)
-
-Efficiently managing data flows with a clean and intuitive interface. This project highlights my backend skills.
-
-- **Live Link:** [View Demo](https://live-link-2.com)
-- **Tech Stack:** Node.js, Express, PostgreSQL, Prisma
-
-#### 📱 [Project Name 3](https://live-link-3.com)
-
-A mobile-responsive application built for high performance and accessibility.
-
-- **Live Link:** [View Demo](https://live-link-3.com)
-- **Tech Stack:** React Native, Firebase, Styled Components
-
----
-
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/PROJECT6_IMAGE.png" alt="Green Earth" width="250" />
+        <h4>🌱 <a href="file:///C:/All-Assignment/my-assignment-no-06/index.html" target="_blank">6. Green Earth</a></h4>
+        <p>Complex state management and server-side rendering logic.</p>
+        <p>
+          <b>Tech Stack:</b> Next.js, TypeScript, Prisma<br/>
+          <b>Live:</b> <a href="file:///C:/All-Assignment/my-assignment-no-06/index.html" target="_blank">View Demo</a><br/>
+          <b>GitHub:</b> <a href="https://github.com/MdHridoySikder/my-assignment-no-06.git" target="_blank">Repo Link</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=md-hridoy-sikder&color=007bff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
