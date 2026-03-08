@@ -42,9 +42,21 @@ I am a passionate **Full Stack Web Developer** dedicated to building high-perfor
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.facebook.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md Hridoy Sikder Facebook" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-hridoy-sikder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Hridoy Sikder LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md Hridoy Sikder Twitter" height="30" width="40" /></a>
+<a href="https://github.com/MdHridoySikder" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Md Hridoy Sikder GitHub" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-hridoy-sikder-1216753b4" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Hridoy Sikder LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/share/1FojDpo6wZ/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md Hridoy Sikder Facebook" height="30" width="40" />
+</a>
+
+<a href="https://x.com/MSikder31328" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md Hridoy Sikder Twitter" height="30" width="40" />
+</a>
 </p>
 
 ---
