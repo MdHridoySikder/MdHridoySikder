@@ -96,19 +96,17 @@ I am a passionate **Full Stack Web Developer** dedicated to building high-perfor
 ### 📊 GitHub Statistics & Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-hridoy-sikder&show_icons=true&theme=radical" alt="Md Hridoy Sikder's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-hridoy-sikder&layout=compact&theme=radical" alt="Md Hridoy Sikder's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdHridoySikder&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHridoySikder&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hridoy-sikder&theme=radical" alt="Md Hridoy Sikder's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdHridoySikder&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hridoy-sikder&theme=react-dark" alt="Md Hridoy Sikder's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdHridoySikder&theme=react-dark" />
 </p>
-
----
 
 ### 💡 Random Dev Quote
 
