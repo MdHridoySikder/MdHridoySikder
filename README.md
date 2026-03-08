@@ -13,7 +13,7 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building modern, r
 - 🌱 I’m currently learning **GraphQL, Docker, AWS, React Native**
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/MSikder31328)
-- 🌐 Explore my [Portfolio][(https://md-hridoy-sikder.netlify.app) and [Resume](#)
+- 🌐 Explore my [Portfolio](https://md-hridoy-sikder.netlify.app) and [Resume](#)
 - 📫 Reach me at **hridoy702345@gmail.com**
 
 ---
