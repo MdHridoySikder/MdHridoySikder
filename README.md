@@ -133,52 +133,68 @@ I am a passionate **Full Stack Web Developer** dedicated to building high-perfor
 </div>
 ---
 
-### 📌 Pinned Repositories
+### 📌 Pinned Projects (Professional Style)
 
-#### 🚀 [1. AssetVerse](https://asset-verse-clint.netlify.app)
-Implementing complex animations and ensuring modularity.  
-- **Tech Stack:** React, Tailwind, Framer Motion  
-- **Live:** [View Demo](https://asset-verse-clint.netlify.app)  
-- **GitHub:** [Repo Link](https://github.com/MdHridoySikder/asset-verse.git)  
-- **Challenges:** Implementing complex animations and ensuring modularity.  
-- **Improvements:** Optimization of asset loading and enhanced accessibility features.
+<div align="center">
 
-#### 🛠 [2. EcoTrack](https://eco-track-com.netlify.app)
-Managing real-time data sync across multiple clients.  
-- **Tech Stack:** Node.js, Express, MongoDB  
-- **Live:** [View Demo](https://eco-track-com.netlify.app)  
-- **GitHub:** [Repo Link](https://github.com/MdHridoySikder/eco-track.git)  
-- **Challenges:** Managing real-time data sync across multiple clients.  
-- **Improvements:** Upgraded socket implementation for better performance.
+---
 
-#### 📱 [3. SkillSSwap](https://my-assignment-no-09.netlify.app)
-A mobile-responsive application built for high performance and accessibility.  
-- **Tech Stack:** Next.js, TypeScript, Prisma  
-- **Live:** [View Demo](https://my-assignment-no-09.netlify.app)  
-- **GitHub:** [Repo Link](https://github.com/MdHridoySikder/my-assignment-no-09.git)  
-- **Challenges:** Complex state management and server-side rendering logic.  
-- **Improvements:** Better caching mechanisms and database indexing.
+#### 🚀 1. [AssetVerse](https://asset-verse-clint.netlify.app)  
+**Description:** Implementing complex animations with a modular approach to enhance user experience.  
+**Tech Stack:** `React` `Tailwind` `Framer Motion`  
+**Live Demo:** [Click Here](https://asset-verse-clint.netlify.app)  
+**GitHub Repo:** [Repo Link](https://github.com/MdHridoySikder/asset-verse.git)  
+**Challenges:** Handling advanced animations and maintaining code modularity.  
+**Improvements:** Optimized asset loading and accessibility enhancements.  
 
-#### 🎮 [4. Hero.io](https://hero-gaming-apps.netlify.app)
-Complex state management and server-side rendering logic.  
-- **Tech Stack:** Next.js, TypeScript, Prisma  
-- **Live:** [View Demo](https://hero-gaming-apps.netlify.app)  
-- **GitHub:** [Repo Link](https://github.com/MdHridoySikder/hero-apps.git)  
-- **Challenges:** Complex state management and server-side rendering logic.  
-- **Improvements:** Better caching mechanisms and database indexing.
+---
 
-#### 🎫 [5. CS – Ticket System](https://assignment0777.netlify.app)
-Complex state management and server-side rendering logic.  
-- **Tech Stack:** Next.js, TypeScript, Prisma  
-- **Live:** [View Demo](https://assignment0777.netlify.app)  
-- **GitHub:** [Repo Link](https://github.com/MdHridoySikder/my-assignment-no-7.git)  
-- **Challenges:** Complex state management and server-side rendering logic.  
-- **Improvements:** Better caching mechanisms and database indexing.
+#### 🛠 2. [EcoTrack](https://eco-track-com.netlify.app)  
+**Description:** Real-time data tracking and management platform for efficient workflow.  
+**Tech Stack:** `Node.js` `Express` `MongoDB`  
+**Live Demo:** [Click Here](https://eco-track-com.netlify.app)  
+**GitHub Repo:** [Repo Link](https://github.com/MdHridoySikder/eco-track.git)  
+**Challenges:** Syncing real-time data across multiple clients.  
+**Improvements:** Upgraded socket implementation for faster performance.  
 
-#### 🌱 [6. Green Earth](#)
-Complex state management and server-side rendering logic.  
-- **Tech Stack:** Next.js, TypeScript, Prisma  
-- **Live:** [View Demo](#)  
-- **GitHub:** [Repo Link](https://github.com/MdHridoySikder/my-assignment-no-06.git)  
-- **Challenges:** Complex state management and server-side rendering logic.  
-- **Improvements:** Better caching mechanisms and database indexing.
+---
+
+#### 📱 3. [SkillSSwap](https://my-assignment-no-09.netlify.app)  
+**Description:** Mobile-responsive web app for seamless skill exchange between users.  
+**Tech Stack:** `Next.js` `TypeScript` `Prisma`  
+**Live Demo:** [Click Here](https://my-assignment-no-09.netlify.app)  
+**GitHub Repo:** [Repo Link](https://github.com/MdHridoySikder/my-assignment-no-09.git)  
+**Challenges:** Managing complex state and server-side rendering efficiently.  
+**Improvements:** Improved caching mechanisms and database indexing.  
+
+---
+
+#### 🎮 4. [Hero.io](https://hero-gaming-apps.netlify.app)  
+**Description:** Gaming platform with real-time data updates and smooth UX/UI.  
+**Tech Stack:** `Next.js` `TypeScript` `Prisma`  
+**Live Demo:** [Click Here](https://hero-gaming-apps.netlify.app)  
+**GitHub Repo:** [Repo Link](https://github.com/MdHridoySikder/hero-apps.git)  
+**Challenges:** Complex state management with server-side rendering.  
+**Improvements:** Optimized caching & improved performance for high traffic.  
+
+---
+
+#### 🎫 5. [CS – Ticket System](https://assignment0777.netlify.app)  
+**Description:** Streamlined ticket management system with automated workflows.  
+**Tech Stack:** `Next.js` `TypeScript` `Prisma`  
+**Live Demo:** [Click Here](https://assignment0777.netlify.app)  
+**GitHub Repo:** [Repo Link](https://github.com/MdHridoySikder/my-assignment-no-7.git)  
+**Challenges:** Maintaining state consistency and SSR logic.  
+**Improvements:** Enhanced caching & database indexing for faster access.  
+
+---
+
+#### 🌱 6. [Green Earth](#)  
+**Description:** Eco-friendly project management platform with scalable architecture.  
+**Tech Stack:** `Next.js` `TypeScript` `Prisma`  
+**Live Demo:** [Click Here](#)  
+**GitHub Repo:** [Repo Link](https://github.com/MdHridoySikder/my-assignment-no-06.git)  
+**Challenges:** Managing complex state and SSR logic.  
+**Improvements:** Optimized caching & improved database performance.  
+
+</div>
