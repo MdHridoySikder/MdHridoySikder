@@ -2,7 +2,7 @@
 
 
 
-![Banner](https://ibb.co.com/CK3SbvKr)
+![Banner](https://i.ibb.co.com/zVTtXbVk/image-6.jpg)
 
 # Hi 👋, I'm Md Hridoy Sikder
 
