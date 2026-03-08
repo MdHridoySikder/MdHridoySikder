@@ -2,7 +2,7 @@
 
 
 
-[![Banner](https://md-hridoy-sikder.netlify.app)
+![Banner](https://md-hridoy-sikder.netlify.app)
 
 # Hi 👋, I'm Md Hridoy Sikder
 
