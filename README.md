@@ -11,6 +11,19 @@
 
 ---
 
+### 🐍 GitHub Snake
+
+<div align="center">
+
+![GitHub Snake](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/dist/github-snake.svg)
+<br>
+![GitHub Snake Dark](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/dist/github-snake-dark.svg)
+<br>
+![GitHub Ocean Snake](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/dist/ocean.gif)
+
+</div>
+
+
 ### 💫 About Me
 
 Hi! I’m **Md Hridoy Sikder**, a passionate **Full Stack Web Developer** focused on building **high-performance, scalable, and visually stunning web applications**.  
