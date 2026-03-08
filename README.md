@@ -28,14 +28,6 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building modern, r
 
 ---
 
-  # generates a snake game from a github user (<MdHridoySikder>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate MdHridoySikder-snake.svg
-        uses: MdHridoySikder/snk/svg-only@v3
-        with:
-          github_user_name: ${{ MdHridoySikder }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
 
 ### 📫 Connect with Me:
