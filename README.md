@@ -96,15 +96,25 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 ---
 
-<div align="center" style="border:2px solid #36BCF7; border-radius:15px; padding:20px; max-width:600px; background:linear-gradient(135deg, #1F1C2C, #928DAB); color:white; font-family:Arial, sans-serif; box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+<div align="center" style="
+  border: 2px solid #36BCF7;
+  border-radius: 15px;
+  padding: 25px;
+  max-width: 600px;
+  background: linear-gradient(135deg, #1F1C2C, #928DAB);
+  color: white;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+  transition: transform 0.3s ease;
+">
 
-<h3>💡 Developer Quote</h3>
+<h3 style="margin-bottom:15px;">💡 Developer Quote</h3>
 
-<p style="font-size:18px; line-height:1.5; margin:10px 0;">
+<p style="font-size:18px; line-height:1.6; margin:10px 0;">
 💬 <em>"There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us."</em>
 </p>
 
-<p style="font-weight:bold; font-size:16px; margin-top:15px;">
+<p style="font-weight:bold; font-size:16px; margin-top:20px;">
 ⭐ — Elon Musk
 </p>
 
