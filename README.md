@@ -14,23 +14,32 @@
 
 ### 💫 About Me
 
-I am a passionate **Full Stack Web Developer** dedicated to building high-performance, scalable, and visually stunning web applications. With a strong foundation in the **MERN** stack and a keen eye for detail, I strive to create seamless user experiences that solve real-world problems.
-
-🔭 I’m currently working on **Frontend (React.js, Next.js, Tailwind CSS, TypeScript)**
-
-⚡ I’m exploring **Backend (Node.js, Express.js, MongoDB, Mongoose, PostgreSQL)**
-
-🌱 I’m currently learning **GraphQL, Docker, AWS, React Native**
-
-💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
-
-📝 I regularly write articles on **LinkedIn**
-
-🌐 Portfolio link: [https://md-hridoy-sikder.netlify.app](https://md-hridoy-sikder.netlify.app)
-
-📫 Email: [hridoy702345@gmail.com](mailto:hridoy702345@gmail.com)
+Hi! I’m **Md Hridoy Sikder**, a passionate **Full Stack Web Developer** focused on building **high-performance, scalable, and visually stunning web applications**.  
+I combine creativity with technical expertise to deliver seamless user experiences and solve real-world problems efficiently.  
 
 ---
+
+### 🔹 Current Focus
+- 🔭 **Frontend Development:** React.js, Next.js, Tailwind CSS, TypeScript  
+- ⚡ **Backend Exploration:** Node.js, Express.js, MongoDB, Mongoose, PostgreSQL  
+- 🌱 **Learning & Growth:** GraphQL, Docker, AWS, React Native  
+
+---
+
+### 🔹 What I Do
+- 💬 Full-Stack Development (React, Next.js, Node, Express, MongoDB, PostgreSQL)  
+- 📝 Writing articles and tutorials on **LinkedIn**  
+- 🌐 Building personal projects, portfolios, and scalable applications  
+
+---
+
+### 🔹 Quick Links
+- 🌐 **Portfolio:** [md-hridoy-sikder.netlify.app](https://md-hridoy-sikder.netlify.app)  
+- 📫 **Email:** [hridoy702345@gmail.com](mailto:hridoy702345@gmail.com)  
+
+---
+
+> 💡 *“Strive for progress, not perfection. Every line of code is a step closer to mastery.”*
 
 ### 📍 Location & Contact
 
