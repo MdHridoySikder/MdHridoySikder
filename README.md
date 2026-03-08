@@ -1,4 +1,8 @@
 <div align="center">
+<p align="center">
+  ![3D Cartoon Coding](https://link-to-your-3d-image.png)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Coding+With+My+3D+Avatar;Loving+To+Build+Web+Apps" />
+</p>
 
 ![Banner](https://i.ibb.co/zVTtXbVk/image-6.jpg)
 
