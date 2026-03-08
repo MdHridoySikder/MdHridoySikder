@@ -58,7 +58,29 @@ I combine creativity with technical expertise to deliver seamless user experienc
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,vercel,netlify,figma,ai,ps,vscode,notion" />
 
 ---
-#### 🛠 Languages <img src="https://skillicons.dev/icons?i=html,css,js" /> #### 🎨 CSS Frameworks & Libraries <img src="https://skillicons.dev/icons?i=tailwind" /> #### ⚙️ JavaScript Frameworks & Libraries <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" /> #### 💾 Database & Model <img src="https://skillicons.dev/icons?i=mongodb" /> #### 🚀 Deployment Platform <img src="https://skillicons.dev/icons?i=vercel,netlify" /> #### 🎨 Design & Graphics <img src="https://skillicons.dev/icons?i=figma,ai,ps" /> #### 🛠 Tools & Technologies <img src="https://skillicons.dev/icons?i=vscode,github,notion" /> ---
+
+#### 🛠 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js" title="HTML, CSS, JavaScript" height="40" />
+
+#### 🎨 CSS Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="40" />
+
+#### ⚙️ JavaScript Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" title="React, Next.js, Node.js, Express.js" height="40" />
+
+#### 💾 Database & Model
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="40" />
+
+#### 🚀 Deployment Platform
+<img src="https://skillicons.dev/icons?i=vercel,netlify" title="Vercel, Netlify" height="40" />
+
+#### 🎨 Design & Graphics
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" title="Figma, Adobe Illustrator, Photoshop" height="40" />
+
+#### 🛠 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=vscode,github,notion" title="VSCode, GitHub, Notion" height="40" />
+
+---
 
 ### 📊 GitHub Statistics
 
