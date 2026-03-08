@@ -1,57 +1,135 @@
+<div align="center">
+
+# Professional GitHub Profile README
+
+[![Banner](https://ibb.co.com/CK3SbvKr)](https://md-hridoy-sikder.netlify.app)
+
 # Hi 👋, I'm Md Hridoy Sikder
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Md+Hridoy+Sikder;Full+Stack+Web+Developer;React+%26+Next.js+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Md+Hridoy+Sikder;Full+Stack+Web+Developer;React+%26+Next.js+Specialist;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-### 💫 About Me:
-
-I'm a passionate **Full-Stack Web Developer** with a focus on building modern, responsive, and high-performance web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
-
-- 🔭 I’m currently working on **Frontend (React.js, Next.js, Tailwind CSS, TypeScript)**
-- ⚡ I’m exploring **Backend (Node.js, Express.js, MongoDB, Mongoose, PostgreSQL)**
-- 🌱 I’m currently learning **GraphQL, Docker, AWS, React Native**
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/MSikder31328)
-- 🌐 Explore my [Portfolio](https://md-hridoy-sikder.netlify.app) and [Resume](#)
-- 📫 Reach me at **hridoy702345@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack:
+### 💫 About Me
+
+I am a passionate **Full Stack Web Developer** dedicated to building high-performance, scalable, and visually stunning web applications. With a strong foundation in the **MERN** stack and a keen eye for detail, I strive to create seamless user experiences that solve real-world problems.
+
+🔭 I’m currently working on **Frontend (React.js, Next.js, Tailwind CSS, TypeScript)**
+
+⚡ I’m exploring **Backend (Node.js, Express.js, MongoDB, Mongoose, PostgreSQL)**
+
+🌱 I’m currently learning **GraphQL, Docker, AWS, React Native**
+
+💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**
+
+📝 I regularly write articles on **LinkedIn**
+
+🌐 Portfolio link: [https://md-hridoy-sikder.netlify.app](https://md-hridoy-sikder.netlify.app)
+
+📫 Email: [hridoy702345@gmail.com](mailto:hridoy702345@gmail.com)
+
+---
+
+### 📍 Location & Contact
+
+📍 **Location:** Bangladesh  
+📧 **Email:** [hridoy702345@gmail.com](mailto:hridoy702345@gmail.com)
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,nodejs,express,mongodb,figma,github,vercel" />
-  </a>
+<a href="https://www.facebook.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md Hridoy Sikder Facebook" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-hridoy-sikder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Hridoy Sikder LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Md Hridoy Sikder Twitter" height="30" width="40" /></a>
 </p>
 
 ---
 
-          
+### 🚀 Technology Stack
 
-### 📫 Connect with Me:
+#### 🛠 Languages
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/MSikder31328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/MSikder31328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="30" width="40" /></a>
-  <a href="https://facebook.com/MSikder31328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+#### 🎨 CSS Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
+#### ⚙️ JavaScript Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+
+#### 💾 Database & Model
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+#### 🚀 Deployment Platform
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+#### 🎨 Design & Graphics
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+
+#### 🛠 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=vscode,github,notion" />
+
+---
+
+### 📊 GitHub Statistics & Analysis
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-hridoy-sikder&show_icons=true&theme=radical" alt="Md Hridoy Sikder's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-hridoy-sikder&layout=compact&theme=radical" alt="Md Hridoy Sikder's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hridoy-sikder&theme=radical" alt="Md Hridoy Sikder's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hridoy-sikder&theme=react-dark" alt="Md Hridoy Sikder's Contribution Graph" />
 </p>
 
 ---
 
-### 💡 Random Dev Quote:
+### 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+> "There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us."  
+> — **Elon Musk**
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+---
 
-<br />
+### 📌 Pinned Repositories
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MSikder31328&label=Profile%20views&color=0e75b6&style=flat" alt="MSikder31328" />
-</p>
+#### 🚀 [Project Name 1](https://live-link-1.com)
+
+Short overview of the project and its core functionality. It focuses on solving X by providing Y.
+
+- **Live Link:** [View Demo](https://live-link-1.com)
+- **Tech Stack:** React, Next.js, Tailwind, MongoDB
+
+#### 🛠 [Project Name 2](https://live-link-2.com)
+
+Efficiently managing data flows with a clean and intuitive interface. This project highlights my backend skills.
+
+- **Live Link:** [View Demo](https://live-link-2.com)
+- **Tech Stack:** Node.js, Express, PostgreSQL, Prisma
+
+#### 📱 [Project Name 3](https://live-link-3.com)
+
+A mobile-responsive application built for high performance and accessibility.
+
+- **Live Link:** [View Demo](https://live-link-3.com)
+- **Tech Stack:** React Native, Firebase, Styled Components
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-hridoy-sikder&color=007bff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
