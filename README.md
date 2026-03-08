@@ -22,7 +22,7 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building modern, r
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,nodejs,express,mongodb,postgres,prisma,graphql,docker,aws,redux,framer,figma,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,nodejs,express,mongodb,figma,github,vercel" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building modern, r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSikder31328&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/MdHridoySikder/MdHridoySikder/?user=MSikder31328&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
