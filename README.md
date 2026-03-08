@@ -1,9 +1,5 @@
 <div align="center">
-<!-- 3D Cartoon GIF -->
-![3D Cartoon Coding](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Md+Hridoy+Sikder;Full+Stack+Web+Developer;Coding+Fun+With+3D+Avatar)](https://git.io/typing-svg)
 
 ![Banner](https://i.ibb.co/zVTtXbVk/image-6.jpg)
 
