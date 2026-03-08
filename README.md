@@ -2,7 +2,7 @@
 
 
 
-![Banner](https://md-hridoy-sikder.netlify.app)
+![Banner](https://ibb.co.com/CK3SbvKr)
 
 # Hi 👋, I'm Md Hridoy Sikder
 
