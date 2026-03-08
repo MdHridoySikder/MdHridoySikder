@@ -131,7 +131,7 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 #### 🚀 [AssetVerse](https://asset-verse-clint.netlify.app)  
 **Overview:** Advanced animations with modular structure to improve UX/UI.  
-**Tech:** React, Tailwind, Framer Motion  
+**Tech:** React, Tailwind,  Node.js, Express, MongoDB , Firebase
 **Live Demo:** [Click Here](https://asset-verse-clint.netlify.app)  
 **GitHub:** [Repo](https://github.com/MdHridoySikder/asset-verse.git)  
 **Challenges:** Complex animations, modularity  
@@ -141,7 +141,7 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 #### 🛠 [EcoTrack](https://eco-track-com.netlify.app)  
 **Overview:** Real-time data management and tracking platform.  
-**Tech:** Node.js, Express, MongoDB  
+**Tech:**  React, Tailwind,  Node.js, Express, MongoDB , Firebase 
 **Live Demo:** [Click Here](https://eco-track-com.netlify.app)  
 **GitHub:** [Repo](https://github.com/MdHridoySikder/eco-track.git)  
 **Challenges:** Syncing data in real-time  
@@ -151,7 +151,7 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 #### 📱 [SkillSSwap](https://my-assignment-no-09.netlify.app)  
 **Overview:** Mobile-friendly skill exchange platform.  
-**Tech:** Next.js, TypeScript, Prisma  
+**Tech:**  React, Tailwind,  Node.js, Express, MongoDB , Firebase
 **Live Demo:** [Click Here](https://my-assignment-no-09.netlify.app)  
 **GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-09.git)  
 **Challenges:** Complex state & SSR logic  
@@ -161,7 +161,7 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 #### 🎮 [Hero.io](https://hero-gaming-apps.netlify.app)  
 **Overview:** Gaming platform with real-time updates and smooth UX/UI.  
-**Tech:** Next.js, TypeScript, Prisma  
+**Tech:**  React, Tailwind,  Node.js, Express, MongoDB  
 **Live Demo:** [Click Here](https://hero-gaming-apps.netlify.app)  
 **GitHub:** [Repo](https://github.com/MdHridoySikder/hero-apps.git)  
 
@@ -169,7 +169,7 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 #### 🎫 [CS – Ticket System](https://assignment0777.netlify.app)  
 **Overview:** Streamlined ticket management system with automated workflows.  
-**Tech:** Next.js, TypeScript, Prisma  
+**Tech:**   JavaScript, Tailwind,
 **Live Demo:** [Click Here](https://assignment0777.netlify.app)  
 **GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-7.git)  
 
@@ -177,7 +177,7 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 #### 🌱 [Green Earth](#)  
 **Overview:** Eco-friendly project management platform.  
-**Tech:** Next.js, TypeScript, Prisma  
+**Tech:**   JavaScript, Tailwind,
 **GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-06.git)  
 
 </div>
