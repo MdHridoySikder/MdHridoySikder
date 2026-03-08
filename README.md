@@ -58,6 +58,7 @@ I combine creativity with technical expertise to deliver seamless user experienc
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,vercel,netlify,figma,ai,ps,vscode,notion" />
 
 ---
+#### 🛠 Languages <img src="https://skillicons.dev/icons?i=html,css,js" /> #### 🎨 CSS Frameworks & Libraries <img src="https://skillicons.dev/icons?i=tailwind" /> #### ⚙️ JavaScript Frameworks & Libraries <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" /> #### 💾 Database & Model <img src="https://skillicons.dev/icons?i=mongodb" /> #### 🚀 Deployment Platform <img src="https://skillicons.dev/icons?i=vercel,netlify" /> #### 🎨 Design & Graphics <img src="https://skillicons.dev/icons?i=figma,ai,ps" /> #### 🛠 Tools & Technologies <img src="https://skillicons.dev/icons?i=vscode,github,notion" /> ---
 
 ### 📊 GitHub Statistics
 
