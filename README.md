@@ -1,8 +1,8 @@
 <div align="center">
 
-# Professional GitHub Profile README
 
-[![Banner](https://ibb.co.com/CK3SbvKr)](https://md-hridoy-sikder.netlify.app)
+
+[![Banner](https://md-hridoy-sikder.netlify.app)
 
 # Hi 👋, I'm Md Hridoy Sikder
 
