@@ -19,9 +19,13 @@
 Hi! I’m **Md Hridoy Sikder**, a passionate **Full Stack Web Developer** focused on building **high-performance, scalable, and visually stunning web applications**.  
 I combine creativity with technical expertise to deliver seamless user experiences and solve real-world problems efficiently.
 
-🔹 **Current Work:** Frontend (React.js, Next.js, Tailwind CSS, TypeScript)  
-🔹 **Exploring:** Backend (Node.js, Express.js, MongoDB, Mongoose, PostgreSQL)  
-🔹 **Learning:** GraphQL, Docker, AWS, React Native  
+🔹 Current Skills: Frontend Development (React.js, JavaScript, HTML, CSS, Tailwind CSS)
+
+🔹 Backend Skills: MERN Stack (Node.js, Express.js, MongoDB)
+
+🔹 Familiar With: Next.js, Firebase, REST API
+
+🔹 Currently Learning: Next.js
 
 💬 Full-Stack Development (React, Next.js, Node, Express, MongoDB, PostgreSQL)  
 📝 Writing articles and tutorials on [LinkedIn](https://www.linkedin.com/in/md-hridoy-sikder-1216753b4)  
