@@ -33,7 +33,7 @@ I enjoy turning ideas into real-world projects using modern web technologies and
 ---
 
 ### 📍 Location & Contact
-📍 **Bangladesh**  
+📍 **Chitttagong, Bangladesh**  
 📧 **Email:** [hridoy702345@gmail.com](mailto:hridoy702345@gmail.com)
 
 ---
