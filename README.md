@@ -16,24 +16,20 @@
 
 ### 💫 About Me
 
-Hi! I’m **Md Hridoy Sikder**, a passionate **Full Stack Web Developer** focused on building **high-performance, scalable, and visually stunning web applications**.  
-I combine creativity with technical expertise to deliver seamless user experiences and solve real-world problems efficiently.
+Hi! I’m **Md Hridoy Sikder**, a passionate **MERN Stack Developer** focused on building responsive, scalable, and user-friendly web applications.
 
-🔹 Current Skills: Frontend Development (React.js, JavaScript, HTML, CSS, Tailwind CSS)
+I enjoy turning ideas into real-world projects using modern web technologies and continuously improving my development skills.
 
-🔹 Backend Skills: MERN Stack (Node.js, Express.js, MongoDB)
+🔹 Frontend Skills: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+🔹 Backend Skills: Node.js, Express.js, MongoDB  
+🔹 Authentication: Firebase Authentication, JWT  
+🔹 Familiar With: REST APIs, Next.js (basic)
 
-🔹 Familiar With: Next.js, Firebase, REST API
-
-🔹 Currently Learning: Next.js
-
-💬 Full-Stack Development (React, Next.js, Node, Express, MongoDB, PostgreSQL)  
-📝 Writing articles and tutorials on [LinkedIn](https://www.linkedin.com/in/md-hridoy-sikder-1216753b4)  
+💬 Focused on building full-stack web applications using MERN stack  
 🌐 Portfolio: [md-hridoy-sikder.netlify.app](https://md-hridoy-sikder.netlify.app)  
 📫 Email: [hridoy702345@gmail.com](mailto:hridoy702345@gmail.com)
 
-> 💡 *“Strive for progress, not perfection. Every line of code is a step closer to mastery.”*
-
+> 💡 *"Strive for progress, not perfection. Every line of code is a step toward mastery."*
 ---
 
 ### 📍 Location & Contact
@@ -133,55 +129,91 @@ I combine creativity with technical expertise to deliver seamless user experienc
 
 <div align="center">
 
-#### 🚀 [AssetVerse](https://asset-verse-clint.netlify.app)  
-**Overview:** Advanced animations with modular structure to improve UX/UI.  
-**Tech:** React, Tailwind,  Node.js, Express, MongoDB , Firebase
+#### 🚀 [AssetVerse](https://asset-verse-clint.netlify.app)
+
+**Overview:**  
+A full-stack MERN application for managing company assets, employee requests, and approval workflows with role-based dashboards.
+
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase Authentication, Tailwind CSS
+
 **Live Demo:** [Click Here](https://asset-verse-clint.netlify.app)  
-**GitHub:** [Repo](https://github.com/MdHridoySikder/asset-verse.git)  
-**Challenges:** Complex animations, modularity  
-**Improvements:** Optimized asset loading & accessibility
+**GitHub:** [Repo](https://github.com/MdHridoySikder/asset-verse.git)
+
+**Challenges:** Managing role-based access and structured workflow system  
+**Improvements:** Better performance optimization and improved accessibility
 
 ---
 
-#### 🛠 [EcoTrack](https://eco-track-com.netlify.app)  
-**Overview:** Real-time data management and tracking platform.  
-**Tech:**  React, Tailwind,  Node.js, Express, MongoDB , Firebase 
+#### 🛠 [EcoTrack](https://eco-track-com.netlify.app)
+
+**Overview:**  
+A community-based eco activity tracking platform for logging daily environmental activities and tracking sustainability progress.
+
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase Authentication, Tailwind CSS
+
 **Live Demo:** [Click Here](https://eco-track-com.netlify.app)  
-**GitHub:** [Repo](https://github.com/MdHridoySikder/eco-track.git)  
-**Challenges:** Syncing data in real-time  
-**Improvements:** Improved socket implementation & performance
+**GitHub:** [Repo](https://github.com/MdHridoySikder/eco-track.git)
+
+**Challenges:** Handling structured user activity tracking  
+**Improvements:** Better performance handling and scalable data flow design
 
 ---
 
-#### 📱 [SkillSSwap](https://my-assignment-no-09.netlify.app)  
-**Overview:** Mobile-friendly skill exchange platform.  
-**Tech:**  React, Tailwind,  Node.js, Express, MongoDB , Firebase
+#### 📱 [SkillSSwap](https://my-assignment-no-09.netlify.app)
+
+**Overview:**  
+A skill-sharing platform where users can offer, discover, and book learning sessions locally.
+
+**Tech:** React, Node.js, Express.js, MongoDB, Firebase Authentication, Tailwind CSS
+
 **Live Demo:** [Click Here](https://my-assignment-no-09.netlify.app)  
-**GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-09.git)  
-**Challenges:** Complex state & SSR logic  
-**Improvements:** Optimized caching & database indexing
+**GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-09.git)
+
+**Challenges:** Managing authentication flow and dynamic user interactions  
+**Improvements:** Better caching strategy and UI optimization
 
 ---
 
-#### 🎮 [Hero.io](https://hero-gaming-apps.netlify.app)  
-**Overview:** Gaming platform with real-time updates and smooth UX/UI.  
-**Tech:**  React, Tailwind,  Node.js, Express, MongoDB  
+#### 🎮 [Hero.io](https://hero-gaming-apps.netlify.app)
+
+**Overview:**  
+A responsive web application focused on modern UI/UX and dynamic frontend interaction.
+
+**Tech:** React, JavaScript, HTML5, Tailwind CSS
+
 **Live Demo:** [Click Here](https://hero-gaming-apps.netlify.app)  
-**GitHub:** [Repo](https://github.com/MdHridoySikder/hero-apps.git)  
+**GitHub:** [Repo](https://github.com/MdHridoySikder/hero-apps.git)
+
+**Challenges:** Maintaining clean component structure  
+**Improvements:** Backend integration and state management enhancement
 
 ---
 
-#### 🎫 [CS – Ticket System](https://assignment0777.netlify.app)  
-**Overview:** Streamlined ticket management system with automated workflows.  
-**Tech:**   JavaScript, Tailwind,
+#### 🎫 [CS – Ticket System](https://assignment0777.netlify.app)
+
+**Overview:**  
+A simple ticket management system for handling user requests and tracking support tickets.
+
+**Tech:** JavaScript, HTML5, Tailwind CSS
+
 **Live Demo:** [Click Here](https://assignment0777.netlify.app)  
-**GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-7.git)  
+**GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-7.git)
+
+**Challenges:** Handling UI state consistency  
+**Improvements:** Adding backend API and authentication system
 
 ---
 
-#### 🌱 [Green Earth](#)  
-**Overview:** Eco-friendly project management platform.  
-**Tech:**   JavaScript, Tailwind,
-**GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-06.git)  
+#### 🌱 [Green Earth](https://my-assignment-no-06.netlify.app)
+
+**Overview:**  
+A static eco-awareness website focused on environmental sustainability and awareness content.
+
+**Tech:** JavaScript, HTML5, Tailwind CSS
+
+**GitHub:** [Repo](https://github.com/MdHridoySikder/my-assignment-no-06.git)
+
+**Challenges:** Structuring layout using pure frontend technologies  
+**Improvements:** Converting into a dynamic React-based application
 
 </div>
